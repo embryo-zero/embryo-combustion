@@ -1,3 +1,13 @@
+.. embryo-brand
+
+=================
+Embryo Combustion
+=================
+
+**Embryo Combustion** is Embryo-Zero's fork of `Cantera <https://github.com/Cantera/cantera>`_, made by Embryo Zero Backyard Data Center Corporation. Our changes are on the ``embryo`` branch; see EMBRYO.md, LEGAL.md and CHANGES-EMBRYO.md. The original project's README follows unchanged, with its authors' credits.
+
+----
+
 .. Cantera
 
 |cantera|
